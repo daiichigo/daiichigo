@@ -8,15 +8,9 @@
 ### I like to explore, visualize, understand and explain it.
 
 ### Check out my [Analytics](https://github.com/daiichigo/Analytics) portfolio repo 🔭
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=daiichigo.daiichigo)
-
-
-
-![](https://profile-counter.glitch.me/{daiichigo.daiichigo}/count.svg)
-
-
 
 <!--
 **daiichigo/daiichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
