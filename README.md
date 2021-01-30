@@ -8,6 +8,8 @@
 ### I like to explore, visualize, understand and explain it.
 
 ### Check out my [Analytics](https://github.com/daiichigo/Analytics) portfolio repo 🔭
+<br><br><br>
+![](https://github.com/daiichigo/Analytics/blob/main/assets/TLcomment.jpg)
 <br><br><br><br><br><br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=daiichigo.daiichigo)
