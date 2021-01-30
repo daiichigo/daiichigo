@@ -14,7 +14,7 @@
 
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{daiichigo.daiichigo}/count.svg)
+![](https://profile-counter.glitch.me/{daiichigo.daiichigo}/count.svg)
 
 
 
