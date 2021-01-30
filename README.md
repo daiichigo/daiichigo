@@ -3,12 +3,11 @@
   <img width="200" src="https://github.com/daiichigo/Analytics/blob/main/assets/daiichigoavatar_1.jpg">
 </p>
 
-
 ### I enjoy writing Python and 👷 I dig data. 
 ### I like to explore, visualize, understand and explain it.
 
 ### Check out my [Analytics](https://github.com/daiichigo/Analytics) portfolio repo 🔭
-<br><br><br>
+<br>
 ![](https://github.com/daiichigo/Analytics/blob/main/assets/TLcomment.jpg)
 <br><br><br><br><br><br><br>
 
