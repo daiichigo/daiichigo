@@ -14,6 +14,10 @@
 
 
 
+![Visitor Count](https : //profile-counter.glitch.me/{daiichigo.daiichigo}/count.svg)
+
+
+
 <!--
 **daiichigo/daiichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
