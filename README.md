@@ -2,14 +2,15 @@
 <p align="center">
   <img width="200" src="https://github.com/daiichigo/Analytics/blob/main/assets/daiichigoavatar_1.jpg">
 </p>
-<p align="center">
-I enjoy writing Python and I dig data. 
-I like to explore, visualize, understand and explain it.
-</p>
 
-<p align="center">
-Check out my Analytics portfolio repo 🔭
-</p>
+
+### I enjoy writing Python and I dig data. 
+### I like to explore, visualize, understand and explain it.
+
+### Check out my [Analytics](https://github.com/daiichigo/Analytics) portfolio repo 🔭
+<br><br><br><br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=daiichigo.daiichigo)
 
 
 
