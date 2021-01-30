@@ -4,7 +4,7 @@
 </p>
 
 
-### I enjoy writing Python and I dig data. 
+### I enjoy writing Python and 👷 I dig data. 
 ### I like to explore, visualize, understand and explain it.
 
 ### Check out my [Analytics](https://github.com/daiichigo/Analytics) portfolio repo 🔭
